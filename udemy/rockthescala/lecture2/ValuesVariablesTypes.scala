@@ -1,5 +1,5 @@
 package playground
-package udemy.rockthescala.lecture1
+package udemy.rockthescala.lecture2
 
 object ValuesVariablesTypes extends App {
   // val = values in scala - immutable and cannot be changed

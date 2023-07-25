@@ -1,5 +1,5 @@
 package playground
-package udemy.rockthescala.lecture3
+package udemy.rockthescala.lecture4
 
 object Functions extends App {
   def function(a: String, b: Int): String = {

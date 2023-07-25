@@ -1,5 +1,5 @@
 package playground
-package udemy.rockthescala.lecture2
+package udemy.rockthescala.lecture3
 
 object Expressions extends App {
     val x = 1 + 2 // Expression
