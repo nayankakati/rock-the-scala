@@ -1,4 +1,5 @@
-package lectures.part1basics
+package playground
+package udemy.rockthescala.lecture2
 
 object Expressions extends App {
     val x = 1 + 2 // Expression
@@ -25,7 +26,7 @@ object Expressions extends App {
 
   // code blocks
   val aCodeBlock = {
-    val y: Int = 3;
+    val y: Int = 3
     val z: Int = y + 1
 
     if (z > 2) "wow" else "bogus"
