@@ -23,9 +23,10 @@ object Functions extends App {
   println(aBigFunction(5))
 
   def aGreetingfunction(name: String, age: Int): String = {
-    "Hi, my name is " + name + " and I am " + age + " years old."
+    s"Hi, my name is $name and I am $age years old."
   }
 
+  println(aGreetingfunction("Nayan", 33))
   def aFactorialFunction(n: Int) : Int = {
 
     if(0 == n) 1
